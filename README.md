@@ -1,4 +1,4 @@
-# KT AIVLE SCHOOL 3기 AI개발자 트랙 _ BigProject
+# ChatGPT를 활용한 리더 GROW 코칭 실습 서비스
 
 
 ### 주제
